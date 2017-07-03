@@ -17,7 +17,9 @@ It is free for academic use and please contact us for any commercial use.
 Download demo data examples from [Dropbox](https://www.dropbox.com/s/plznvzdjglrse3h/Demoexamples.zip?dl=0) and run matlab files under example folder.
 
 ## ImageJ/Fiji Plugin
-BaSiC is also available as a ImageJ/Fiji Plugin. Plugin and installation instruction can be found in [BaSiC](https://www.helmholtz-muenchen.de/icb/research/groups/quantitative-single-cell-dynamics/software/basic/index.html)
+BaSiC is also available as a ImageJ/Fiji Plugin. Plugin and installation instruction can be found in [BaSiC Software Website](https://www.helmholtz-muenchen.de/icb/research/groups/quantitative-single-cell-dynamics/software/basic/index.html).
+
+
 
 
 
