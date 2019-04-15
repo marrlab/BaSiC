@@ -40,7 +40,7 @@ From now on, running the Fiji updater will also check for BaSiC updates, and ins
 
 ### Install manually
 
-Please download BaSiC Plugin from this repository. 
+Please download [BaSiC Plugin](https://github.com/QSCD/BaSiC/blob/master/BaSiCPlugin.zip) from this repository. 
 
 1. Copy “BaSiC_.jar” to the “$FIJIROOT/plugins” folder of your Fiji/ImageJ installation.
 2. Copy all dependent jar files in the "Dependent" folder to your Fiji/ImageJ "$FIJIROOT/jars" directory.
