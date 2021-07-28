@@ -13,7 +13,7 @@ BaSiC is licensed under
 It is free for academic use and please contact us for any commercial use.
 
 ## Usage
-![Alt text](images/usage.png)
+![BaSiC corrects both spatial uneven illumination of microscopy images and temporal background bleaching for time-lapse movies.](images/usage.png)
 
 
 ## Demo
