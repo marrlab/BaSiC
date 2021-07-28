@@ -12,6 +12,10 @@ BaSiC is licensed under
 
 It is free for academic use and please contact us for any commercial use.
 
+## Usage
+![Alt text](images/usage.png)
+
+
 ## Demo
 
 Download demo data examples from [Dropbox](https://www.dropbox.com/s/plznvzdjglrse3h/Demoexamples.zip?dl=0) and run matlab files under example folder.
