@@ -63,7 +63,7 @@ If you have any issues concerning BaSiC, please report them in the [Issues](http
 
 
 ## PyBaSiC
-[PyBaSiC](https://github.com/peng-lab/PyBaSiC) is a python implementation of BaSiC
+[PyBaSiC](https://github.com/peng-lab/PyBaSiC) is a python implementation of BaSiC (in progress)
 
 
 
