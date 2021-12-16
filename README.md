@@ -63,7 +63,7 @@ If you have any issues concerning BaSiC, please report them in the [Issues](http
 
 
 ## PyBaSiC
-Planed and in progress
+Python version of BaSiC implementation (https://github.com/peng-lab/PyBaSiC)
 
 
 
