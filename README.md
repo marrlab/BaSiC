@@ -62,8 +62,8 @@ make sure that in your Fiji/ImageJ "$FIJIROOT/jars" directory, there is only one
 If you have any issues concerning BaSiC, please report them in the [Issues](https://github.com/QSCD/BaSiC/issues) section of this GitHub repository and we will try to find a solution.
 
 
-## PyBaSiC
-Python version of BaSiC implementation (https://github.com/peng-lab/PyBaSiC)
+## BaSiCPy
+Python version of BaSiC implementation (https://github.com/peng-lab/BaSiCPy)
 
 
 
